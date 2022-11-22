@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matyle
-- 👀 I’m interested in vim,golang
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in vim,golang,rust,cpp
+- 🌱 I’m currently learning Rust and using Golang
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
